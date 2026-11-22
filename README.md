@@ -11,7 +11,9 @@ A clean, responsive task management dashboard built with React and Vite. It lets
 
 ---
 
-## Getting Started
+## 🚀 Live Demo & Repository
+- **Hosted Application URL**: [https://focus-board-neon.vercel.app](https://focus-board-neon.vercel.app)
+- **GitHub Repository**: [https://github.com/ArockiaDass-123/FocusBoard](https://github.com/ArockiaDass-123/FocusBoard)
 
 ### 1. Install dependencies
 ```bash
